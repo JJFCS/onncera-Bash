@@ -52,7 +52,6 @@ shopt -s expand_aliases                           # expand aliases
 shopt -s histappend                               # do not overwrite history
 
 
-# # ex = EXtractor for all kinds of archives
 # # usage: ex <file>
 ex ()
 {
